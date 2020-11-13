@@ -1,0 +1,39 @@
+/* .card {
+    width: 150px;
+    margin: 10px;
+}
+
+#cards {
+    height: 700px;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+html
+body {
+    width: 100%;
+    height: 100%;
+    background-color: beige;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'Source Serif Pro', serif;
+}
+
+#textStuff {
+    margin-right: 50px;
+}
+
+.container img {
+    width: 300px;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 15px;
+}
